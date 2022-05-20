@@ -3,7 +3,7 @@ package optional;
 import java.util.Optional;
 import java.util.function.Supplier;
 
-public class Main {
+public class _OptionalBasic {
 
     public static void main(String[] args) {
         Object defaultValue = Optional.ofNullable(null)
